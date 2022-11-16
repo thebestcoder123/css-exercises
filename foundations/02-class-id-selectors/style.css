@@ -1,0 +1,17 @@
+.odd-classes {
+    background-color:rgb(255, 50, 160);
+    font-family: 'Verdana','DejaVu Sans', 'sans-serif';
+}
+#number-dos {
+    color:rgb(100, 189, 245);
+    font-size:36px ;
+    font-family:sans-serif
+}
+.number-tres {
+    font-size:24px;
+}
+#number-quatro {
+    background-color: rgb(0, 236, 4);
+    font-size:24px;
+    font-weight: bold;
+}

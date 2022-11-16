@@ -7,34 +7,30 @@ body{
   color: hsl(0, 0%, 0%);
   font-weight: 800;
 }
-
+.para {
+  font-size: 22px;
+}
 .small-para {
   font-size: 14px;
   font-weight: 800;
 }
-
-.para {
-  font-size: 22px;
-}
-
-.confirm {
-  background: green;
-  color: white;
-  font-weight: bold;
-} 
 
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
+.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
 
-.child {
+.text .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
-
 div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
